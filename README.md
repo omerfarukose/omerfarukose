@@ -2,7 +2,7 @@
 
 <h2>Hi 👋, I'm Omer</h2>
 
-I'm currently working as a mobile developer, developing cross-platform applications using React Native for the past 1.5 years.
+I'm currently working as a mobile developer, developing cross-platform applications using React Native.
 
 I also develop native iOS and Android modules and have experience with Firebase.
 
