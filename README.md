@@ -4,7 +4,7 @@
 
 I'm currently working as a mobile developer, developing cross-platform applications using React Native.
 
-I also develop native iOS and Android modules and have experience with Firebase.
+I also develop native iOS and Android modules.
 
 
 - 🎓 Bachelor's Degree in Computer Engineering
