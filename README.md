@@ -2,11 +2,7 @@
 
 <h2>Hi 👋, I'm Omer</h2>
 
-I'm working as a mobile developer, developing cross-platform applications using React Native.
-
-I also develop native iOS and Android modules.
-
-
+- Mobile developer focused on React Native cross-platform solutions and native (iOS/Android) module development.
 - 🎓 Bachelor's Degree in Computer Engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omerfarukose/)
 
